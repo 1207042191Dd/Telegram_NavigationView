@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Primera sección: Opciones principales -->
+    <group android:id="@+id/main_section">
+        <item
+            android:id="@+id/nav_new_group"
+            android:icon="@drawable/msg_groups"
+            android:title="Nuevo grupo" />
+
+        <item
+            android:id="@+id/nav_secret_chat"
+            android:icon="@drawable/msg_filled_lockedrecord"
+            android:title="Nuevo chat secreto" />
+
+        <item
+            android:id="@+id/nav_new_channel"
+            android:icon="@drawable/msg_channel"
+            android:title="Nuevo canal" />
+
+        <item
+            android:id="@+id/nav_contacts"
+            android:icon="@drawable/msg_contacts"
+            android:title="Contactos" />
+
+        <item
+            android:id="@+id/nav_calls"
+            android:icon="@drawable/msg_calls"
+            android:title="Llamadas" />
+
+        <item
+            android:id="@+id/nav_saved_messages"
+            android:icon="@drawable/msg_saved"
+            android:title="Mensajes guardados" />
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/msg_settings"
+            android:title="Ajustes" />
+    </group>
+
+
+
+
+    <!-- Tercera sección: Extras -->
+    <group android:id="@+id/extras_section">
+        <item
+            android:id="@+id/nav_invite_friends"
+            android:icon="@drawable/msg_requests"
+            android:title="Invitar amigos" />
+
+        <item
+            android:id="@+id/nav_faq"
+            android:icon="@drawable/msg_emoji_question"
+            android:title="Preguntas frecuentes" />
+    </group>
+</menu>
