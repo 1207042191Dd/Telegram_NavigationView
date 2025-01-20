@@ -10,8 +10,12 @@ Una implementación nativa de Android que replica la interfaz de usuario de Tele
 
 ## 📸 Capturas de Pantalla
 ![Navigation Drawer](https://github.com/user-attachments/assets/c0d64c28-ad50-45b8-9594-eb9956c19232)
+
 > Vista de Navigation Drawer de Telegram
+> 
 ![Chat Listl](https://github.com/user-attachments/assets/af4cbd8b-6395-4663-8adf-fe0412df307f)
+
+
 > Vista de mensajes
 
 
